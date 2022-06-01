@@ -4,6 +4,16 @@ title: "Publications"
 ---
 <body style="background-color:#5d5e0b;">
 
+<br>
+<br>
+
+<p style="font-family: times, serif; font-size:50pt; text-align: center">
+    **Publications**
+</p>
+
+<br>
+<br>
+
 <p style="font-family: accanthis; font-size:15pt; text-align: right">
   Under review
     </p>
@@ -33,7 +43,7 @@ title: "Publications"
     </p>
 
 <p style="font-family: accanthis; font-size:11pt; text-align: left">
-  **Niche partitioning and intraspecific shared webs in two species of _Modisimus_ Simon, 1893 (Pholcidae, Araneae).** || **Carballo-Morales, J. D.**, Delgado-Montes, C., Auccacusi-Choque, L. V., Reyes-Ortiz, M., Aisenberg, A.
+  **Niche partitioning and intraspecific shared webs in two species of _Modisimus_ Simon, 1893 (Pholcidae, Araneae).** || **Carballo-Morales, J. D.**, Delgado-Montes, C., Auccacusi-Choque, L. V., Reyes-Ortiz, M., Aisenberg, A. || *Journal of Arachnology.*
     </p>
     
 <p style="font-family: accanthis; font-size:15pt; text-align: right">
@@ -41,9 +51,9 @@ title: "Publications"
     </p>
 
 <p style="font-family: accanthis; font-size:11pt; text-align: left">
-  **Body mass explains digestive traits in small vespertilionid bats.** || Cabrera-Campos, I., **Carballo-Morales, J. D.**, Saldaña-Vázquez, R. A., Villalobos, F., Ayala-Berdon, J.
+  **Body mass explains digestive traits in small vespertilionid bats.** || Cabrera-Campos, I., **Carballo-Morales, J. D.**, Saldaña-Vázquez, R. A., Villalobos, F., Ayala-Berdon, J. || *Journal of Comparative Physiology B.*
     </p>
     
 <p style="font-family: accanthis; font-size:11pt; text-align: left">
-  **Trophic guild and forest type explain phyllostomid bat abundance variation from human habitat disturbance.** || **Carballo-Morales, J. D.**, Saldaña-Vazquez, R. A., & Villalobos, F.
+  **Trophic guild and forest type explain phyllostomid bat abundance variation from human habitat disturbance.** || **Carballo-Morales, J. D.**, Saldaña-Vazquez, R. A., & Villalobos, F. || *Global Ecology and Conservation.*
     </p>

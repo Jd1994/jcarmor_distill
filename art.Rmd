@@ -1,6 +1,17 @@
 ---
 title: "Art"
 ---
+<body style="background-color:#5e0b2f;">
 
-Subtitle
-Drawings | Landscape pictures
+<br>
+<br>
+
+<p style="font-family: times, serif; font-size:50pt; text-align: center">
+    **Art**
+</p>
+<p style="font-family: times, serif; font-size:20pt; text-align: center">
+    Drawings and Landscape pictures
+</p>
+<br>
+<br>
+
