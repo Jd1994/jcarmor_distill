@@ -26,3 +26,4 @@ navbar:
     - icon: fa-solid fa-envelope
       href: "https://scholar.google.com/citations?user=WuPS8K0AAAAJ&hl=en"
 output: distill::distill_article
+theme: "jcarmor_theme.css"
