@@ -2,4 +2,31 @@
 title: "Projects"
 ---
 
-Work-in-progress
+<body style="background-color:#0b365e;">
+
+<br>
+<br>
+
+<p style="font-family: times, serif; font-size:50pt; text-align: center">
+    **Projects**
+</p>
+
+<br>
+<br>
+
+<p style="font-family: accanthis; font-size:16pt; text-align: center">
+    Work
+    </p>
+<p style="font-family: accanthis; font-size:16pt; text-align: center">
+    -in-
+    </p>
+<p style="font-family: accanthis; font-size:16pt; text-align: center">
+    progress
+    </p>
+
+<table>
+  <tr>
+    <td>  </td>
+    <td>  </td>
+  </tr>
+</table>

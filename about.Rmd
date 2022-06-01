@@ -1,0 +1,33 @@
+---
+title: About me
+---
+<body style="background-color:#5e0b0b;">
+
+<br>
+<br>
+
+<p style="font-family: times, serif; font-size:50pt; text-align: center">
+    **About me**
+</p>
+
+<br>
+<br>
+
+<p style="font-family: accanthis; font-size:16pt; text-align: center">
+    I am a biologist from Costa Rica specialized in Tropical Biology and Natural Resource Management. I did my bachelor's and my post-bachelor’s (Licentiate) degree at Universidad Nacional in Costa Rica. I consider myself a field biologist and computer scientist.
+    </p>
+<p style="font-family: accanthis; font-size:16pt; text-align: center">
+    I spend my free time walking with Ema (my dog), reading and watching documentaries. I like spending time with my family and friends. I enjoy learning new things and playing sports like running and cycling.
+    </p>
+
+<br>
+<br>
+<br>
+
+<table>
+  <tr>
+    <td>  ![](images/about1.jpg){width=100%}</td>
+    <td>  ![](images/about2.jpg){width=100%}</td>
+    <td>  ![](images/about3.jpg){width=100%}</td>
+  </tr>
+</table>

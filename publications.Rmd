@@ -1,37 +1,49 @@
 ---
-title: "publications"
+title: "Publications"
 
 ---
-<body style="background-color:orange;">
+<body style="background-color:#5d5e0b;">
 
-<table>
-  <tr>
-    <td><img src="publication_images/Carballo-Morales-etal2021.jpg" width="100%" ></td>
-    <td><img src="publication_images/Carballo-Morales-etal2021.jpg" width="100%" ></td>
-    <td><img src="publication_images/Carballo-Morales-etal2021.jpg" width="100%" ></td>
-  </tr>
-</table>
+<p style="font-family: accanthis; font-size:15pt; text-align: right">
+  Under review
+    </p>
 
+<p style="font-family: accanthis; font-size:11pt; text-align: left">
+  **Bats in tropical cities: a view since the ecology in, of and for cities.** || Saldaña-Vázquez, R. A., **Carballo-Morales, J. D.**, Hernández-Montero, J. R., Ríos-Chelén, A. A., Vázquez-Domínguez. G., Aguilar-Cucurachi, S., Avila-Flores, R., Mella-Mendez, I., Sandoval-Ruiz, C. A., Silva-Rivera. E., Schondube, J. E., Spaan, D. || *In: Angeoletto, F., Tryjanowski. P., Fellowes. M. (eds) Ecology of Tropical Cities: Natural and Social Sciences Applied to the Conservation of Urban Biodiversity. Springer.*
+    </p>
 
-<p style='text-align: right;'> In prep </p>
+<p style="font-family: accanthis; font-size:15pt; text-align: right">
+  In prep
+    </p>
 
+<p style="font-family: accanthis; font-size:11pt; text-align: left">
+  **Habitat breadth and its relation to functional traits and extinction risk in phyllostomid bats.** || **Carballo-Morales, J. D.**, Villalobos, F., Saldaña-Vázquez, R. A, Herrera-Alsina, L.
+    </p>
 
-### paper 1
+<p style="font-family: accanthis; font-size:11pt; text-align: left">
+  **Thermal niche breadth in Sturnira bats and their relation with species diversification.** || **Carballo-Morales, J. D.**, Saldaña-Vázquez, R. A., Villalobos, F., Herrera-Alsina, L.
+    </p>
 
-autores
+<p style="font-family: accanthis; font-size:11pt; text-align: left">
+  **Thermal energetics of bats of the family Vespertilionidae: an evolutionary approach.** || Medina-Bello, K. I., **Carballo-Morales, J. D.**, Saldaña-Vázquez. R. A., Villalobos, F., Ayala-Berdon, J.
+    </p>
 
-#### paper 2
+<p style="font-family: accanthis; font-size:15pt; text-align: right">
+  2022
+    </p>
 
-autores
+<p style="font-family: accanthis; font-size:11pt; text-align: left">
+  **Niche partitioning and intraspecific shared webs in two species of _Modisimus_ Simon, 1893 (Pholcidae, Araneae).** || **Carballo-Morales, J. D.**, Delgado-Montes, C., Auccacusi-Choque, L. V., Reyes-Ortiz, M., Aisenberg, A.
+    </p>
+    
+<p style="font-family: accanthis; font-size:15pt; text-align: right">
+  2021
+    </p>
 
-<p style='text-align: right;'> 2022 </p>
-
-### paper 1
-
-autores
-
-#### paper 2
-
-autores
-
-<p style='text-align: right;'> 2021 </p>
+<p style="font-family: accanthis; font-size:11pt; text-align: left">
+  **Body mass explains digestive traits in small vespertilionid bats.** || Cabrera-Campos, I., **Carballo-Morales, J. D.**, Saldaña-Vázquez, R. A., Villalobos, F., Ayala-Berdon, J.
+    </p>
+    
+<p style="font-family: accanthis; font-size:11pt; text-align: left">
+  **Trophic guild and forest type explain phyllostomid bat abundance variation from human habitat disturbance.** || **Carballo-Morales, J. D.**, Saldaña-Vazquez, R. A., & Villalobos, F.
+    </p>

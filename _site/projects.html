@@ -2158,8 +2158,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   html {
     /*-- Main font sizes --*/
-    --title-size:      50px;
-    --body-size:       1.06rem;
+    --title-size:      0px;
+    --body-size:       1.2rem;
     --code-size:       14px;
     --aside-size:      12px;
     --fig-cap-size:    13px;
@@ -2186,7 +2186,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   /*-- ARTICLE TABLE OF CONTENTS --*/
   .d-contents {
-    --heading-size:    18px;
+    --heading-size:    15px;
     --contents-size:   13px;
   }
 
@@ -2205,19 +2205,15 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     --title-size:       15px;
     --text-color:       rgba(255, 255, 255, 0.8);
     --text-size:        15px;
-    --hover-color:      white;
+    --hover-color:      red;
     --bkgd-color:       #000000;
   }
 
   .distill-site-footer {
-    color: #f7f7f7b0;
-    background-color: #1f1f1f;
-    margin-top: 0px;
-    padding: 50px 20px;
-    font-size: 13px;
-    letter-spacing: 1px;
-    text-transform: uppercase;
-    line-height: 12px;
+    --text-color:       rgba(255, 255, 255, 0.8);
+    --text-size:        15px;
+    --hover-color:      black;
+    --bkgd-color:       #000000;
   }
 
   /*-- Additional custom styles --*/
@@ -2410,6 +2406,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </div>
 <div class="nav-right">
 <a href="index.html"></a>
+<a href="about.html">About</a>
 <a href="research.html">Research</a>
 <a href="projects.html">Projects</a>
 <a href="publications.html">Publications</a>
@@ -2446,7 +2443,29 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
 <div class="d-article">
-<p>Work-in-progress</p>
+<body style="background-color:#0b365e;">
+<p><br> <br></p>
+<p style="font-family: times, serif; font-size:50pt; text-align: center">
+<strong>Projects</strong>
+</p>
+<p><br> <br></p>
+<p style="font-family: accanthis; font-size:16pt; text-align: center">
+Work
+</p>
+<p style="font-family: accanthis; font-size:16pt; text-align: center">
+-in-
+</p>
+<p style="font-family: accanthis; font-size:16pt; text-align: center">
+progress
+</p>
+<table>
+<tr>
+<td>
+</td>
+<td>
+</td>
+</tr>
+</table>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
@@ -2462,7 +2481,11 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <div class="appendix-bottom"></div>
 <!--/radix_placeholder_appendices-->
 <!--radix_placeholder_navigation_after_body-->
+<div class="distill-site-nav distill-site-footer">
+<p style='text-align: center;'>© Jorge D. Carballo-Morales (2022). Made with the R distill package.</p>
+</div>
 <!--/radix_placeholder_navigation_after_body-->
+
 
 </body>
 

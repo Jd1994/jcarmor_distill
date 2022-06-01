@@ -1,10 +1,31 @@
 ---
-title: "research"
+title: "Research"
 ---
-foto mi con murcielagos
+<body style="background-color:#0b5e2b;">
 
-quiero un parrafo hablando sobre mi preocupacion
+<br>
+<br>
 
-sobre lo que me interesa y lo que hago y que metedos uso
+<p style="font-family: times, serif; font-size:50pt; text-align: center">
+    **Research**
+</p>
 
-lo que quiero hacer mas adelante
+<br>
+<br>
+
+<p style="font-family: accanthis; font-size:16pt; text-align: center">
+    Work
+    </p>
+<p style="font-family: accanthis; font-size:16pt; text-align: center">
+    -in-
+    </p>
+<p style="font-family: accanthis; font-size:16pt; text-align: center">
+    progress
+    </p>
+
+<table>
+  <tr>
+    <td>  </td>
+    <td>  </td>
+  </tr>
+</table>

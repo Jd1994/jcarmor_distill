@@ -2,13 +2,14 @@
 title: About me
 site: distill::distill_website
 ---
-<body style="background-color:#911f1f;">
+<body style="background-color:black;">
 
+<center>
+![](images/index1.jpg){width=90%}
+</center>
 
+<p style="font-family: accanthis; font-size:15pt; text-align: center; color:white">
+    Bats | Cicling | Ema | Coffee
+</p>
 
-![Image Title](jcarmor.jpg){width=100 style="border-radius:50%"}
-Quiero una pequena intoduccion mia
-Quiero poner los logos de twiter, y otras redes
-Algo pequeno
-mi foto en la izq con mi nombre debajo y los logos, y a la derecha el texto mi introduccion
 
