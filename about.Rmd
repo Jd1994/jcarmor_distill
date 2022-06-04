@@ -1,7 +1,7 @@
 ---
 title: About me
 ---
-<body style="background-color:#5e0b0b;">
+<body style="background-color:#6b1c1c;">
 
 <br>
 <br>
@@ -14,10 +14,10 @@ title: About me
 <br>
 
 <p style="font-family: accanthis; font-size:16pt; text-align: center">
-    I am a biologist from Costa Rica specialized in Tropical Biology and Natural Resource Management. I did my bachelor's and my post-bachelor’s (Licentiate) degree at Universidad Nacional in Costa Rica. I consider myself a field biologist and computer scientist.
+    I am a biologist from Costa Rica specialized in Tropical Biology and Natural Resource Management. I did my bachelor's and my post-bachelor’s (Licentiate) degree at Universidad Nacional in Costa Rica. I consider myself a field and computer biologist.
     </p>
 <p style="font-family: accanthis; font-size:16pt; text-align: center">
-    I spend my free time walking with Ema (my dog), reading and watching documentaries. I like spending time with my family and friends. I enjoy learning new things and playing sports like running and cycling.
+    I spend my free time walking with Ema (my dog), reading and watching documentaries. I like spending time with my family and friends. I enjoy learning new things and doing sports like running and cycling.
     </p>
 
 <br>

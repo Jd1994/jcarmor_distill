@@ -9,7 +9,7 @@ site: distill::distill_website
 </center>
 
 <p style="font-family: accanthis; font-size:15pt; text-align: center; color:white">
-    Bats | Cicling | Ema | Coffee
+    Bats | Cycling | Ema | Coffee
 </p>
 
 
