@@ -1,2 +1,2 @@
 # jcarmor_distill
-I am creating my ouw website with distill R package
+I am creating my own website with distill R package
