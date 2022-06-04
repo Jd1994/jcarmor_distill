@@ -3,7 +3,6 @@ title: About me
 site: distill::distill_website
 ---
 <body style="background-color:black;">
-
 <center>
 ![](images/index1.jpg){width=90%}
 </center>
@@ -11,5 +10,3 @@ site: distill::distill_website
 <p style="font-family: accanthis; font-size:15pt; text-align: center; color:white">
     Bats | Cycling | Ema | Coffee
 </p>
-
-
