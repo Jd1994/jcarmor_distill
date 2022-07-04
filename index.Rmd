@@ -3,6 +3,11 @@ title: About me
 site: distill::distill_website
 ---
 <body style="background-color:black;">
+
+<p style="font-family: accanthis; font-size:22pt; text-align: center; color:white">
+    Jorge D. Carballo-Morales
+</p>
+
 <center>
 ![](images/index1.jpg){width=90%}
 </center>
